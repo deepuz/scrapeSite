@@ -7,6 +7,8 @@ from os import listdir
 from os.path import isfile,join
 import zipfile
 
+# fuck life
+
 url = "http://www.vap.aau.dk/rgb-d-face-database/"
 fileExtn = ".zip"
 httpString = "http://"
